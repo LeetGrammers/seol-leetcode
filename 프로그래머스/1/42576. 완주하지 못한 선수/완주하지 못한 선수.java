@@ -8,9 +8,9 @@ class Solution {
             }
             // containsKey로 completion 값 찾음. 있고 동명이인 있으면 값만 줄이고, 있고 1명이라면 해당 값 remove
             for (String c : completion) {
-                if (map.containsKey(c) && (map.get(c) > 1)) { // 동명이인일 경우
+                if (map.get(c) > 1) { // 동명이인일 경우
                     map.put(c, map.get(c)-1); // 동명이인 한명 줄임
-                } else if (map.containsKey(c) && (map.get(c) == 1)) { // 한명밖에 없을 경우
+                } else if (map.get(c) == 1) { // 한명밖에 없을 경우
                     map.remove(c); // 해당 참가자 삭제
                 }
             }

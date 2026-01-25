@@ -1,0 +1,15 @@
+class Solution {
+    public String solution(String my_string) {
+        String answer = "";
+        int len = my_string.length();
+        for(int i = len - 1; i >= 0; i--) {
+            answer += my_string.charAt(i);
+        }
+        return answer;
+    }
+    
+    public String solution2(String my_string) {
+        StringBuilder sb = new StringBuilder(my_string);
+        return sb.reverse().toString();
+    }
+}

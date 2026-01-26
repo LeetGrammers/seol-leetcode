@@ -1,5 +1,7 @@
 class Solution {
     public boolean isValid(String s) {
+        // 스택 사용. 만약 Top이 현재 만난 괄호와 같다면 제거, 아니면 계속 쌓음
+        // 반복문 끝난 후 스택에 값이 남아있다면 false
         Deque<Character> stack = new ArrayDeque<>();
         
         Map<Character, Character> map = new HashMap<>();
@@ -14,19 +16,15 @@ class Solution {
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             } else { // 닫힌 괄호일때 짝이 일치하지 않으면 바로 false 리턴
-                if (stack.peek() != map.get(c)) {
-                    return false;
-                } else { // 일치 시 제거
-                    stack.pop();
-                }
+                if(stack.isEmpty()) return false;
+
+                char top = stack.pop();
+                char expected = map.get(c);
+                
+                if (top != expected) return false;
             }
         }
 
-        // 스택 비어있지 않아도 false 리턴
-        if (!stack.isEmpty()) {
-            return false;
-        }
-
-        return true;
+        return stack.isEmpty();
     }
 }

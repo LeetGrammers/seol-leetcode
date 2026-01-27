@@ -1,4 +1,5 @@
 class Solution {
+    
     public boolean isValid(String s) {
         Deque<Character> stack = new ArrayDeque<>();
         for (char c : s.toCharArray()) {
@@ -16,6 +17,7 @@ class Solution {
         }
         return stack.isEmpty();
     }
+    
     public boolean isValid2(String s) {
         Deque<Character> stack = new ArrayDeque<>();
         
@@ -39,7 +41,6 @@ class Solution {
                 if (top != expected) return false;
             }
         }
-
         return stack.isEmpty();
     }
 }

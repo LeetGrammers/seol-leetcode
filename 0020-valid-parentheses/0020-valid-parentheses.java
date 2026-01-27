@@ -1,7 +1,22 @@
 class Solution {
     public boolean isValid(String s) {
-        // 스택 사용. 만약 Top이 현재 만난 괄호와 같다면 제거, 아니면 계속 쌓음
-        // 반복문 끝난 후 스택에 값이 남아있다면 false
+        Deque<Character> stack = new ArrayDeque<>();
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                stack.push(')');
+            } else if (c == '[') {
+                stack.push(']');
+            } else if (c == '{') {
+                stack.push('}');
+            } else { // 닫힘괄호 나옴
+                if (stack.isEmpty() || stack.pop() != c) {
+                    return false;
+                }
+            }
+        }
+        return stack.isEmpty();
+    }
+    public boolean isValid2(String s) {
         Deque<Character> stack = new ArrayDeque<>();
         
         Map<Character, Character> map = new HashMap<>();

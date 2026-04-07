@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lxeso/seol/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/lxeso/seol/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LeetGrammers/seol-leetcode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

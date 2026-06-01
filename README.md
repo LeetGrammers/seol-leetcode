@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lxeso/seol/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/lxeso/seol/tree/master/0217-contains-duplicate) |
+| [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |

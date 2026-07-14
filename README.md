@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lxeso/seol/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/LeetGrammers/seol-leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/lxeso/seol/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/LeetGrammers/seol-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/LeetGrammers/seol-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LeetGrammers/seol-leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/LeetGrammers/seol-leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

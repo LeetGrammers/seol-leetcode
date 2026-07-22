@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lxeso/seol/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/lxeso/seol/tree/master/0242-valid-anagram) |
+| [0583-delete-operation-for-two-strings](https://github.com/LeetGrammers/seol-leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LeetGrammers/seol-leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/LeetGrammers/seol-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0070-climbing-stairs) |
+| [0583-delete-operation-for-two-strings](https://github.com/LeetGrammers/seol-leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |

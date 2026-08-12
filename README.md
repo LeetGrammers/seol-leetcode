@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LeetGrammers/seol-leetcode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/lxeso/seol/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/LeetGrammers/seol-leetcode/tree/master/1035-uncrossed-lines) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0070-climbing-stairs) |
 | [0583-delete-operation-for-two-strings](https://github.com/LeetGrammers/seol-leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/LeetGrammers/seol-leetcode/tree/master/1035-uncrossed-lines) |
 ## Memoization
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/LeetGrammers/seol-leetcode/tree/master/0055-jump-game) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/LeetGrammers/seol-leetcode/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->

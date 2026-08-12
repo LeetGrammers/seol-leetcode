@@ -6,13 +6,6 @@ class Solution {
 
         dp[0][0] = 0;
 
-        for (int k = 0; k <= m; k++) {
-            dp[k][0] = 0;
-        }
-        for (int l = 0; l <= n; l++) {
-            dp[0][l] = 0;
-        }
-
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 if (nums1[i-1] == nums2[j-1]) {

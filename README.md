@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LeetGrammers/seol-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/LeetGrammers/seol-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/LeetGrammers/seol-leetcode/tree/master/1035-uncrossed-lines) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/LeetGrammers/seol-leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/LeetGrammers/seol-leetcode/tree/master/1035-uncrossed-lines) |
+## Sliding Window
+|  |
+| ------- |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/LeetGrammers/seol-leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
